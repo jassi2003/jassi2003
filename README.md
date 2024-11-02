@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jaspreet Singh</h1>
-<h3 align="center">A passionate Web Developer</h3>
+<h3 align="center">A passionate MERN Stack Developer</h3>
 
 <img align="right" alt="coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jassi2003&label=Profile%20views&color=0e75b6&style=flat" alt="jassi2003" /> </p>
-
-- 🌱 I’m currently learning **backend development**
 
 - 📫 How to reach me **jaspreetjassisingh2003@gmail.com**
 
